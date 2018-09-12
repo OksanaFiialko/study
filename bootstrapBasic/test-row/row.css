@@ -1,2 +1,3 @@
-body{height: 100%;
+body,html{height: 100%;
 width: 100%}
+.box-color div {border-style:solid 5px black; }
