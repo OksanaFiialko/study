@@ -1,0 +1,14 @@
+html,
+body {
+    font-family: "Open-sans", sans-serif;
+    color: #555f61;
+    font-size: 16px;
+}
+
+p {
+    font-weight: 200;
+}
+
+h4 {
+    color: fafafa;
+}
