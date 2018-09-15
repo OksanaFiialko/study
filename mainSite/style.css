@@ -1,0 +1,9 @@
+
+#mainNavbar{
+    font-family: "Open-sans", sans-serif;
+}
+
+.navbar-nav{
+    flex-direction: row;
+}
+
