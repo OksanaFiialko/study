@@ -1,0 +1,150 @@
+body {
+    font-family: "Open-sans", sans-serif;
+    font-size: 16px;
+    color: #585353;
+    line-height: 1.6em;
+}
+
+
+/* ---- NAVBAR -----*/
+
+.navHeight a {
+    color: #848181;
+}
+
+.navHeight {
+    background-color: #fff;
+    height: 75px;
+}
+
+.navHeight li {
+    margin-right: 30px
+}
+
+
+/*  HEADER */
+
+.header-box {
+    background: #00EEEE;
+    width: 100%;
+    height: 550px;
+    position: relative;
+}
+
+.arrow {
+    margin-top: 20%;
+    float: right;
+}
+
+.hBlock h1 {
+    margin: 0;
+    font-size: 45px;
+}
+
+.hBlock {
+    margin-top: 20%;
+    color: #C3B5B5;
+}
+
+.hblockMain h1 {
+    color: #666363;
+    font-weight: 900;
+    font-size: 6.5em;
+}
+
+.header-box-yellow {
+    background: #F2F200;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.header-box-blue {
+    background: #00EEEE;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.header-box-gray {
+    background: #9E9E9E;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.header-box-pink {
+    background: #FF69B4;
+}
+
+.mainText {
+    margin-left: 1px;
+}
+
+
+/* --HOW WE WORK SECTION */
+
+
+
+.h4-box {
+    letter-spacing: 0.05em;
+    color: #777474;
+    ;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.parahraph-HWW-blue {
+    padding: 20px;
+    background-color: #00EEEE;
+}
+
+.parahraph-HWW-yellow {
+    padding: 20px;
+    background-color: #F2F200;
+}
+
+.parahraph-HWW-gray {
+    padding: 20px;
+    background-color: #9E9E9E;
+}
+
+.parahraph-HWW-pink {
+    padding: 20px;
+    background-color: #FF69B4;
+}
+
+.row-HWW {
+    margin: 10px;
+    margin-bottom: 23px;
+}
+
+.btn-how-we-work {
+    background-color: #79E1E1;
+    color: #fff;
+    margin-bottom: 20px
+}
+
+
+/* -- SERVICES SECTION --*/
+.services-section {
+    background-color: #FAFDFD;
+}
+
+.line-small-pink {
+    border-bottom: solid 2px #FF69B4;
+}
+.line-small-blue {
+    border-bottom: solid 2px #00EEEE;
+}
+
+.paragraph-card{letter-spacing: 0.03em;
+color:#737272 }
+
+/* DOESN't WORK */
+.card-image-blue{
+    background-color: #00eeee;
+background-blend-mode: lighten;}
+
+/* WHO ARE HAPPY CACTUS */
+.list-style-checkblue{list-style-image: url(img/chekBoxBlue.png);
+}
+li{letter-spacing: 0.05em;
+font-weight: 100;}
